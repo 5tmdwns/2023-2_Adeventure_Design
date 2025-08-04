@@ -1,2 +1,18 @@
-# 2023-2_Adeventure_Design
-경희대학교 2023-2학기 Adventure Design 프로젝트
+<p align="center">
+  <h1 align="center">엘레베이터 혼잡도 알림 시스템✨</h1>
+
+<p align="center">
+
+</p>
+<p align="center">
+
+</p>
+
+
+
+
+
+
+
+
+
