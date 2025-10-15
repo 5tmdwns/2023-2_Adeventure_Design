@@ -18,10 +18,10 @@
 ## 작품 설명
 <table align="center">
   <tr>
-    <td align="center"><img width="121" height="171" src="https://github.com/user-attachments/assets/e540745f-a115-4240-97fc-35cecbe07c1f" alt="조도 센서"/></td>
-    <td align="center"><img width="121" height="171" src="https://github.com/user-attachments/assets/8f5a6319-a41d-4b19-9a14-6c5124dbe979" alt="3색 LED 신호등"/></td>
-    <td align="center"><img width="121" height="171" src="https://github.com/user-attachments/assets/45ef9778-812e-4ef8-8c2a-b4f3089db1df" alt="적외선 센서"/></td>
-    <td align="center"><img width="121" height="171" src="https://github.com/user-attachments/assets/661c739b-3b30-4f1a-8914-3dd440add4f6" alt="작품의 전체적인 모습"/></td>
+    <td align="center"><img width="90%" src="https://github.com/user-attachments/assets/e540745f-a115-4240-97fc-35cecbe07c1f" alt="조도 센서"/></td>
+    <td align="center"><img width="90%" src="https://github.com/user-attachments/assets/8f5a6319-a41d-4b19-9a14-6c5124dbe979" alt="3색 LED 신호등"/></td>
+    <td align="center"><img width="90%" src="https://github.com/user-attachments/assets/45ef9778-812e-4ef8-8c2a-b4f3089db1df" alt="적외선 센서"/></td>
+    <td align="center"><img width="90%" src="https://github.com/user-attachments/assets/661c739b-3b30-4f1a-8914-3dd440add4f6" alt="작품의 전체적인 모습"/></td>
   </tr>
   <tr>
     <td align="center">조도 센서</td>
